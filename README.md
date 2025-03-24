@@ -2,7 +2,7 @@
 
 ![Amazon Logo](images/Amazon.jpg)
 
-
+# Summary
 This project performs an exploratory data analysis (EDA) on Amazon sales data, focusing on product reviews and their impact on sales performance. The analysis includes visualizations and statistical insights related to product categories, pricing, and customer ratings.
 
 ## Technologies
