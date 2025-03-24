@@ -14,7 +14,7 @@ This project performs an exploratory data analysis (EDA) on Amazon sales data, f
 * 2 to 3 -> 'Poor'
 * 3 to 4 -> 'Average'
 * 4 to 5 -> 'Good'
-![Number of Rating per Rate Description](number_of_rating_per_rate_description.jpg)
+![Number of Rating per Rate Description](images/number_of_rating_per_rate_description.jpg)
 
 
 # Technologies
