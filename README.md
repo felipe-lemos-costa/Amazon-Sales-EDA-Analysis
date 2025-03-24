@@ -5,7 +5,11 @@
 # Summary
 This project performs an exploratory data analysis (EDA) on Amazon sales data, focusing on product reviews and their impact on sales performance. The analysis includes visualizations and statistical insights related to product categories, pricing, and customer ratings.
 
-## Technologies
+# Key Insights
+1. The "Rating Histogram" graph shows that most of the reviews are between 4.0 and 4.5.
+![Rating Histogram](images/2. Rating Histogram.jpg)
+
+# Technologies
 - Python
 - Pandas
 - NumPy
@@ -13,7 +17,7 @@ This project performs an exploratory data analysis (EDA) on Amazon sales data, f
 - Seaborn
 - Jupyter Notebook
 
-## How to Run
+# How to Run
 
 1. Clone the repository:
    ```bash
@@ -30,5 +34,5 @@ This project performs an exploratory data analysis (EDA) on Amazon sales data, f
    jupyter notebook Amazon-Sales-EDA-Analysis.ipynb
    ```
 
-## License
+# License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
