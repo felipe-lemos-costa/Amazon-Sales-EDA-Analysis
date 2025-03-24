@@ -7,7 +7,15 @@ This project performs an exploratory data analysis (EDA) on Amazon sales data, f
 
 # Key Insights
 1. The "Rating Histogram" graph shows that most of the reviews are between 4.0 and 4.5.
-![Amazon Logo](images/rating_histogram.jpg)
+![Rating Histogram](images/rating_histogram.jpg)
+
+2. I created a column to categorize the rating numbers into rating descriptions in a particular way:
+* 1 to 2 -> 'Terrible'
+* 2 to 3 -> 'Poor'
+* 3 to 4 -> 'Average'
+* 4 to 5 -> 'Good'
+![Number of Rating per Rate Description](number_of_rating_per_rate_description.jpg)
+
 
 # Technologies
 - Python
