@@ -16,6 +16,10 @@ This project performs an exploratory data analysis (EDA) on Amazon sales data, f
 * 4 to 5 -> 'Good'
 ![Number of Rating per Rate Description](images/number_of_rating_per_rate_description.jpg)
 
+3. I created a new column "Macro Category" to identify the number of products evaluated in each Macro Category.
+![Number of Products per Macro Category](images/number_of_products_per_macro_category.jpg)
+
+
 
 # Technologies
 - Python
