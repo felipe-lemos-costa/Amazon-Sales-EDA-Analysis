@@ -5,7 +5,7 @@
 # Summary
 This project performs an exploratory data analysis (EDA) on Amazon sales data, focusing on product reviews and their impact on sales performance. The analysis includes visualizations and statistical insights related to product categories, pricing, and customer ratings.
 
-## Technologies
+# Technologies
 - Python
 - Pandas
 - NumPy
@@ -13,7 +13,7 @@ This project performs an exploratory data analysis (EDA) on Amazon sales data, f
 - Seaborn
 - Jupyter Notebook
 
-## How to Run
+# How to Run
 
 1. Clone the repository:
    ```bash
@@ -30,5 +30,5 @@ This project performs an exploratory data analysis (EDA) on Amazon sales data, f
    jupyter notebook Amazon-Sales-EDA-Analysis.ipynb
    ```
 
-## License
+# License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
