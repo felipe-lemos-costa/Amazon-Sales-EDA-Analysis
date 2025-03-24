@@ -7,7 +7,7 @@ This project performs an exploratory data analysis (EDA) on Amazon sales data, f
 
 # Key Insights
 1. The "Rating Histogram" graph shows that most of the reviews are between 4.0 and 4.5.
-![Rating Histogram](images/2. Rating Histogram.jpg)
+![Amazon Logo](images/rating_histogram.jpg)
 
 # Technologies
 - Python
