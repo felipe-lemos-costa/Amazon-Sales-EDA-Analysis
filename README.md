@@ -5,6 +5,10 @@
 # Summary
 This project performs an exploratory data analysis (EDA) on Amazon sales data, focusing on product reviews and their impact on sales performance. The analysis includes visualizations and statistical insights related to product categories, pricing, and customer ratings.
 
+# Key Insights
+1. The "Rating Histogram" graph shows that most of the reviews are between 4.0 and 4.5.
+" [Rating Histogram].(images/2. Rating Histogram.jpg)
+
 # Technologies
 - Python
 - Pandas
