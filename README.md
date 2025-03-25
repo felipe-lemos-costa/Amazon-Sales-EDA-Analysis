@@ -7,17 +7,17 @@ This project performs an exploratory data analysis (EDA) on Amazon sales data, f
 
 # Key Insights
 1. The "Rating Histogram" graph shows that most of the reviews are between 4.0 and 4.5.
-![Rating Histogram](images/rating_histogram.jpg)
+![Rating Histogram](images/1_rating_histogram.jpg)
 
 2. I created a column to categorize the rating numbers into rating descriptions in a particular way:
 * 1 to 2 -> 'Terrible'
 * 2 to 3 -> 'Poor'
 * 3 to 4 -> 'Average'
 * 4 to 5 -> 'Good'
-![Number of Rating per Rate Description](images/number_of_rating_per_rate_description.jpg)
+![Number of Rating per Rate Description](images/2_number_of_ratings_per_rate_description.jpg)
 
-3. I created a new column "Macro Category" to identify the number of products evaluated in each Macro Category.
-![Number of Products per Macro Category](images/number_of_products_per_macro_category.jpg)
+3. I created a new column "Macro Category" to identify the number of products evaluated per Macro Category.
+![Number of Products per Macro Category](images/3_most_evalueted_products_per_macro_category.jpg)
 
 
 
