@@ -19,7 +19,7 @@ This project performs an exploratory data analysis (EDA) on Amazon sales data, f
 3. I created a new column "Macro Category" to identify the number of products evaluated per "Macro Category":
 ![Most Evalueted Products per Macro Category](images/3_most_evalueted_products_per_macro_category.jpg)
 
-4. This graph shows the average rating per Macro Category:
+4. This graph shows the average rating per Macro Category, where we can see that the first three evaluated products ("Electronics", "Computers&Accessories" and "Home&Kitchen") have an average rating between 4.0 and 4.2. In addition, the two best-rated products ("OfficeProducts" and "Toys&Games" have only 31 and 1 evaluation, respectively.
 ![Average Rating per Macro Category](images/4_rating_average_per_macro_category.jpg)
 
 # Technologies
