@@ -18,7 +18,7 @@ This project performs an exploratory data analysis (EDA) on Amazon sales data, f
 With this approach, I have 928 reviews classified as "Good" (63.5%), 525 as "Average" (35.9%), 8 as "Poor" (0.5%), and 1 as "Terrible" (0.1%):
 ![Number of Rating per Rate Description](images/2_number_of_ratings_per_rate_description.jpg)
 
-3. I created a new column, "Macro Category" to identify the number of products evaluated per "Macro Category":
+3. I created a new column, "Macro Category" to identify the number of products evaluated per "Macro Category". We can see that the most evaluated categories are "Electronics" with 526 (36.0%), "Computers&Accessories" with 451 (30.8%), and "Home&Kitchen" with 447 (30.6%), totaling 97.8% of the overall evaluations:
 ![Most Evalueted Products per Macro Category](images/3_most_evalueted_products_per_macro_category.jpg)
 
 4. This graph shows the top 10 average ratings per "Macro Category", where we can see that the first three evaluated products in the previous graph ("Electronics", "Computers&Accessories" and "Home&Kitchen") have an average rating between 4.0 and 4.2. In addition, the two best-rated products ("OfficeProducts" and "Toys&Games" have only 31 and 1 evaluations, respectively, in the previous graph:
