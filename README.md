@@ -15,7 +15,7 @@ This project performs an exploratory data analysis (EDA) on Amazon sales data, f
 * 3 to 4 -> 'Average'
 * 4 to 5 -> 'Good'
 
-With this approach, I have 928 reviews classified as "Good" (63.6%), 525 as "Average" (36.0%), 8 as "Poor" (0.5%), and 1 as "Terrible" (0.1%):
+With this approach, I have 928 reviews classified as "Good" (63.5%), 525 as "Average" (35.9%), 8 as "Poor" (0.5%), and 1 as "Terrible" (0.1%):
 ![Number of Rating per Rate Description](images/2_number_of_ratings_per_rate_description.jpg)
 
 3. I created a new column, "Macro Category" to identify the number of products evaluated per "Macro Category":
