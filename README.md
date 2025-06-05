@@ -25,9 +25,10 @@ With this approach, I have 928 reviews classified as "Good" (63.5%), 525 as "Ave
 ![Average Rating per Macro Category](images/4_rating_average_per_macro_category.jpg)
 
 5. I created a new column "Micro Category". Since there were many different micro categories, I decided to analyze only the top 10 most evaluated products within "Micro Category":
+
 ![Top 10 Evalueted Products per Micro Category](images/5_top_10_evalueted_products_per_micro_category.jpg)
 
-6. This graph shows the top 5 and bottom 5 average ratings per "Micro Category", where we can identify that all the top 10 evaluated products in the previous graph aren't included in the top 5 best-rated products in this graph. In addition, we can see the worst-rated products in "Micro Categories" which have ratings between 3.3 and 3.6, classified as "Average" in the "Rating Description":
+7. This graph shows the top 5 and bottom 5 average ratings per "Micro Category", where we can identify that all the top 10 evaluated products in the previous graph aren't included in the top 5 best-rated products in this graph. In addition, we can see the worst-rated products in "Micro Categories" which have ratings between 3.3 and 3.6, classified as "Average" in the "Rating Description":
 ![Rating Average per Micro Category (Top 5 and bottom 5](images/6_rating_average_per_micro_category_top_5_and_bottom_5.jpg)
 
 # Technologies Used
